@@ -85,7 +85,7 @@ The "Coffee Time Mod" enables Gigabyte Z270N-WIFI motherboards to work with Inte
 
 *Figure 10: Erasing completed*
 
-6. Choose Your BIOS File
+### 6. Choose Your BIOS File
 
 - Option 1: Use the manufacturer’s fresh BIOS (rename to .bin if needed).
 - Option 2 (I used the original bios): Use your backed-up BIOS.
