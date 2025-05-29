@@ -1,7 +1,7 @@
 # Gigabyte Z270N-WIFI Coffee Time Mod
 
 ## Introduction
-The "Coffee Time Mod" enables Gigabyte Z270N-WIFI motherboards to work with Intel 8th generation Coffee Lake processors, which are not officially supported by the motherboard manufacturers. This modification involves both BIOS modification and physical CPU pin modifications.
+The "Coffee Time Mod" enables Gigabyte Z270N-WIFI motherboard (and many Z170 & Z270 motherboards) to work with Intel 8th generation Coffee Lake processors, which are not officially supported by the motherboard manufacturers. This modification involves both BIOS modification and physical CPU pin modifications.
 
 ## Disclaimer
 **Do this at your own risk.** I did not invent the Coffee Time Mod. This guide documents my personal experience with the mod. If you are planning to do the mod, I recommend that you go through other material as well (check Resources at the end). This modification could potentially damage your hardware and void warranties. **You have been warned.**
