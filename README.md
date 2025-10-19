@@ -129,7 +129,7 @@ _Note: This process creates a new .bin file and does not overwrite your original
 
 *Figure 13: Pinwork map*
 
-<img src="files/modded_cpu.jpg" width="500" alt="Modded CPU">
+<img src="files/modded_cpu_v2.jpg" width="500" alt="Modded CPU">
 
 *Figure 14: Modded CPU*
 
